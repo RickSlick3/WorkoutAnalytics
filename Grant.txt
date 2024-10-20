@@ -1,0 +1,2 @@
+UserProfile: height_in='10' height_ft='4' age='70' weight='499'
+Goal: type='HKWorkoutActivityTypeRunning' distance='10k' time='01:00:00' goal_date='2023-07-25'
