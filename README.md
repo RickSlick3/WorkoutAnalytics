@@ -1,4 +1,6 @@
-| installation | Version |
+# Workout Analytics
+
+| Installation | Version |
 | ------------ | ------- |
 |Babel           | 2.12.1| 
 |contourpy       | 1.1.0|  
